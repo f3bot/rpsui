@@ -1,4 +1,4 @@
-# rpsui
+# ROCK PAPER SCISSORS
 Classic Rock, Paper, Scissors game with USER UI
 
 TECHNOLOGIES USED:
